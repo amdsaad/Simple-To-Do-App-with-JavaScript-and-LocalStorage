@@ -28,7 +28,7 @@ This is a simple Todo List application built with JavaScript. It allows users to
 
 ## Blog Post
 
-For more details about the development of this project, check out [this blog post](https://amd.codes/todo-list-app).
+For more details about the development of this project, check out [this blog post](https://amd.codes/posts/simple-java-script-to-do-app-with-local-storage).
 
 ## License
 
